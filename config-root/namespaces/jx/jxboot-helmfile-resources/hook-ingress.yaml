@@ -20,4 +20,4 @@ spec:
             port:
               number: 80
         path: "/hook"
-    host: 08f5-15-188-86-46.ngrok.io
+    host: 22b5-102-110-223-153.ngrok.io
